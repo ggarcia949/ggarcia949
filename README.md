@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: georgegarcia9492@gmail.com
+- 📫 How to reach me: georgegarcia949@gmail.com
 <!--
 **ggarcia949/ggarcia949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
