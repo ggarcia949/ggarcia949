@@ -5,7 +5,7 @@
   </a>
 </div>
 
-### Hi there 👋
+### Hello ther 👋
 
 - 📫 How to reach me: georgegarcia949@gmail.com
 <!--
