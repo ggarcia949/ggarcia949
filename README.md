@@ -6,7 +6,7 @@
 </div>
 
 ### Hello there 👋
-## A little about myself
+- A little about myself
 I'am proactive, problem-solving analyst with a keen eye for data-driven analysis to increase business performance. Advanced in the use of Microsoft Excel, and programing languages. Proficient in predictive analysis, data visualization, and data mining. 
 - 📫 How to reach me: georgegarcia949@gmail.com
 <!--
